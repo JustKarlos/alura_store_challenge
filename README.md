@@ -6,7 +6,9 @@
 El presente informe tiene como objetivo analizar el desempeño de cuatro tiendas a partir de datos de ventas, precios, costos de envío y calificaciones de clientes. Mediante el uso de visualizaciones gráficas y métricas descriptivas, se busca identificar patrones relevantes que permitan determinar cuál de las tiendas presenta menor rentabilidad y, por lo tanto, sería candidata a ser vendida.
 
 2. Análisis de Ingresos Totales por Tienda
+
 Gráfico utilizado: Barras – Ingresos Totales por Tienda
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/bd647172-977b-4281-b745-66217d8c6314" />
 
 Este gráfico muestra la facturación total acumulada de cada una de las cuatro tiendas.
 
@@ -19,7 +21,10 @@ Interpretación:
 El ingreso total es un primer indicador de desempeño económico. Sin embargo, por sí solo no es suficiente para determinar rentabilidad, ya que no considera costos ni calidad de las ventas.
 
 3. Relación entre Ingresos y Costos de Envío
+
 Gráfico utilizado: Dispersión – Relación entre Ingresos Totales y Envío Promedio
+<img width="690" height="548" alt="image" src="https://github.com/user-attachments/assets/f6a8baed-ec21-45e1-bae4-1050fe5e619b" />
+
 
 Este gráfico relaciona el ingreso total de cada tienda con su costo promedio de envío, incorporando además la calificación promedio como escala de color.
 
@@ -32,7 +37,9 @@ Interpretación:
 Un costo de envío alto reduce el margen de ganancia y afecta la competitividad. Cuando este se combina con bajos ingresos y baja calificación, se evidencia una ineficiencia operativa que impacta negativamente en la rentabilidad.
 
 4. Distribución de Precios por Tienda
+
 Gráfico utilizado: Violin Plot – Distribución de Precios por Tienda
+<img width="768" height="548" alt="image" src="https://github.com/user-attachments/assets/01a1684c-6834-4342-8257-01fa29d914e0" />
 
 El violin plot permite analizar la distribución completa de los precios de venta de cada tienda, mostrando la densidad de precios, la mediana y la variabilidad.
 
